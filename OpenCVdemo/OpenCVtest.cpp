@@ -10,6 +10,4 @@ int main()
 	imshow("ÏÔÊ¾Í¼Ïñ", img);
 	waitKey(0);
 	return 0;
-
-	cout << "hello world";
 }
